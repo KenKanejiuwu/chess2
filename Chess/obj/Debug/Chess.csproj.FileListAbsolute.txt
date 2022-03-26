@@ -1,0 +1,11 @@
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\bin\Debug\Chess.exe.config
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\bin\Debug\Chess.exe
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\bin\Debug\Chess.pdb
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\obj\Debug\Chess.Form1.resources
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\obj\Debug\Chess.Properties.Resources.resources
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\obj\Debug\Chess.exe
+\\192.168.0.245\share student$\Desktop Student$\каплин станислав\Рабочий стол\ChessGame-master\Chess\obj\Debug\Chess.pdb
